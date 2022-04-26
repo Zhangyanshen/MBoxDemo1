@@ -1,0 +1,5 @@
+{
+    "podfile": "Podfile",
+    "xcodeproj": "MBoxDemo1.xcodeproj", // optional
+    "podlock": "Podfile.lock"  // optional
+}
