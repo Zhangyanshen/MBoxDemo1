@@ -14,12 +14,10 @@ PODS:
   - AFNetworking/Serialization (4.0.1)
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
-  - YSPrivatePod (0.1.11)
   - Zys2PodBBBBB (0.1.0)
 
 DEPENDENCIES:
   - AFNetworking (~> 4.0.0)
-  - "YSPrivatePod (from `git@github.com:Zhangyanshen/YSPrivatePod.git`, tag `0.1.11`)"
   - "Zys2PodBBBBB (from `git@github.com:Zhangyanshen/Zys2PodBBBBB.git`, branch `master`)"
 
 SPEC REPOS:
@@ -27,26 +25,14 @@ SPEC REPOS:
     - AFNetworking
 
 EXTERNAL SOURCES:
-  YSPrivatePod:
-    :git: "git@github.com:Zhangyanshen/YSPrivatePod.git"
-    :tag: 0.1.11
   Zys2PodBBBBB:
     :branch: master
     :git: "git@github.com:Zhangyanshen/Zys2PodBBBBB.git"
 
-CHECKOUT OPTIONS:
-  YSPrivatePod:
-    :git: "git@github.com:Zhangyanshen/YSPrivatePod.git"
-    :tag: 0.1.11
-  Zys2PodBBBBB:
-    :commit: db61f7e454724439c86491a466fd1237dfac656b
-    :git: "git@github.com:Zhangyanshen/Zys2PodBBBBB.git"
-
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
-  YSPrivatePod: 61bc2a178ae207647f630d1be61d9a94091b1942
   Zys2PodBBBBB: 034d404a36b47f93aee9761f89e55411a1df17df
 
-PODFILE CHECKSUM: 216bac07ef5a3ead00c7214abbacb6d778dae94a
+PODFILE CHECKSUM: b75207f5d376470d414f53b50f3c7f0b722e7157
 
 COCOAPODS: 1.11.2
